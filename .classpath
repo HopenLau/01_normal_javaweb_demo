@@ -13,8 +13,8 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="D:/sofeware/maven_repository/chowsangsang/lt-2.1.36.jar"/>
-	<classpathentry kind="lib" path="D:/sofeware/maven_repository/chowsangsang/lt-email-0.0.3.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="D:/software/IT_software/maven_repository/chowsangsang/lt-idm-2.2.14.jar"/>
+	<classpathentry kind="lib" path="D:/software/IT_software/maven_repository/chowsangsang/lt-email-0.0.3.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
